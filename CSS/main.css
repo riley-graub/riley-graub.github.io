@@ -66,12 +66,14 @@ th
 {
   color: var(--uncblue);
   text-align: center;
+  font-weight: bold;
 }
 
 td
 {
   color: var(--uncblue);
   text-align: center;
+  font-weight: bold;
 }
 
 iframe
