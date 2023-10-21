@@ -27,7 +27,7 @@ img
   font-style: italic;
   margin-top: 100px;
   text-align: center;
-  color: var (--uncblue);
+  color: var(--uncblue);
 }
   
 ul li
@@ -41,7 +41,14 @@ h2
 {
   text-align: center;
   font-decoration: italic;
-  color: var (--uncblue);
+  color: var(--uncblue);
+}
+
+h3
+{
+  color: var(--uncblue);
+  font-decoration: italic;
+  text-align: center;
 }
 
 h2 + p 
@@ -53,4 +60,10 @@ h2 + p + a
 {
   text-align: center;
   display: block;
+}
+
+th td
+{
+  color: var(--uncblue);
+  text-align: center;
 }
