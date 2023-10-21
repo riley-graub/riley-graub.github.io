@@ -32,6 +32,6 @@ img
 li
 {
   display: inline;
-  margin-left: 3vw;
-  margain-right: 3vw;
+  text-decoration: bold;
+  text-align: center;
 }
