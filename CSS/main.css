@@ -4,6 +4,6 @@
   --uncgold: RGB(254,189,54);
   --uncgrey: RGB(235,235,235);
 
-  background-color: var(uncgrey);
+  background-color: var(--uncgrey);
 }
 
