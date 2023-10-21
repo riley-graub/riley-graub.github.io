@@ -27,11 +27,30 @@ img
   font-style: italic;
   margin-top: 100px;
   text-align: center;
+  color: var (--uncblue);
 }
   
-li
+ul li
 {
-  display: inline;
-  text-decoration: bold;
+  font-weight: bold;
+  font-decoration: italic;
+  color: var(--uncblue);
+}
+
+h2
+{
   text-align: center;
+  font-decoration: italic;
+  color: var (--uncblue);
+}
+
+h2 + p 
+{
+  text-align: center;
+}
+
+h2 + p + a 
+{
+  text-align: center;
+  display: block;
 }
