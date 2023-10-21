@@ -11,6 +11,8 @@ h1
 {
   font-size: 48px;
   text-align: center;
+  text-decoration: underline;
+  color: var(--uncblue);
 }
 
 img
@@ -22,9 +24,14 @@ img
 
 .footertext
 {
-  margin-top: 200px;
+  font-style: italic;
+  margin-top: 100px;
   text-align: center;
 }
   
-
-
+li
+{
+  display: inline;
+  margin-left: 3vw;
+  margain-right: 3vw;
+}
