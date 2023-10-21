@@ -6,4 +6,7 @@
 
   background-color: var(--uncgrey);
 }
-
+h1
+{
+  font-size: 48px;
+}
