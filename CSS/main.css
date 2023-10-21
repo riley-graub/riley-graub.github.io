@@ -73,3 +73,10 @@ td
   color: var(--uncblue);
   text-align: center;
 }
+
+iframe
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
