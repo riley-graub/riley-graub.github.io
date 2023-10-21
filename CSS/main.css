@@ -4,9 +4,19 @@
   --uncgold: RGB(254,189,54);
   --uncgrey: RGB(235,235,235);
 
+  color: var(--uncblue)
   background-color: var(--uncgrey);
 }
+
 h1
 {
   font-size: 48px;
+  text-align: center;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
