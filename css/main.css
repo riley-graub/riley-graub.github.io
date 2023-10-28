@@ -81,3 +81,9 @@ table
   margin-left: auto;
   margin-right: auto;
 }
+
+li
+{
+  display: inline;
+  text-align: center;
+}
