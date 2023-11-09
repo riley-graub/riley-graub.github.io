@@ -21,17 +21,10 @@ img
   margin-left: auto;
   margin-right: auto;
 }
-
-.footertext
-{
-  font-style: italic;
-  margin-top: 100px;
-  text-align: center;
-  color: var(--uncblue);
-}
   
 ul li
 {
+  text align: center;
   font-weight: bold;
   font-decoration: italic;
   color: var(--uncblue);
@@ -40,26 +33,15 @@ ul li
 h2
 {
   text-align: center;
-  font-decoration: italic;
+  text-decoration: underline;
   color: var(--uncblue);
 }
 
 h3
 {
   color: var(--uncblue);
-  font-decoration: italic;
+  text-decoration: italic;
   text-align: center;
-}
-
-h2 + p 
-{
-  text-align: center;
-}
-
-h2 + p + a 
-{
-  text-align: center;
-  display: block;
 }
 
 th
