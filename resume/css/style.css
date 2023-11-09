@@ -29,9 +29,14 @@ h2
   color: var(--uncblue);
 }
 
+h3
+{
+  text-align: center;
+}
+
 nav
 {
-    border: 7px var(--uncgold) solid;
+    border: 7px var(--uncblue) solid;
 }
 section
 {
@@ -50,4 +55,5 @@ ul li
     list-style: none;
     padding-left: 0px;
     font color: var(--uncblue);
+    text-align: center;
 }
