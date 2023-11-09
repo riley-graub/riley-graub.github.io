@@ -46,5 +46,5 @@ h3
 
 section 
 {
-  border: 2px solid;
+  border: 2px solid var(--uncgold);
 }
