@@ -32,11 +32,12 @@ h2
 h3
 {
   text-align: center;
+  color: var(--uncblue);
 }
 
 nav
 {
-    border: 7px var(--uncblue) solid;
+    border: 5px var(--uncblue) solid;
 }
 section
 {
