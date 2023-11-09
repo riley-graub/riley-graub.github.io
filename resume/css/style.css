@@ -58,7 +58,7 @@ ul li
     text-align: center;
 }
 
-li
+ul li ul li
 {
     list-style: none;
     padding-left: 0px;
