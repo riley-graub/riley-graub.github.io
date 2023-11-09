@@ -54,7 +54,7 @@ ul
 {
     list-style: none;
     padding-left: 0px;
-    font-color: var(--uncblue);
+    color: var(--uncblue);
     text-align: center;
     font-weight: bold;
 }
