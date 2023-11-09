@@ -24,9 +24,7 @@ img
   
 ul li
 {
-  text align: center;
   font-weight: bold;
-  font-decoration: italic;
   color: var(--uncblue);
 }
 
@@ -40,8 +38,7 @@ h2
 h3
 {
   color: var(--uncblue);
-  text-decoration: italic;
-  text-align: center;
+  text-align: left;
 }
 
 section 
