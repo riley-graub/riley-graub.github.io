@@ -21,12 +21,6 @@ img
   margin-left: auto;
   margin-right: auto;
 }
-  
-ul li
-{
-  font-weight: bold;
-  color: var(--uncblue);
-}
 
 h2
 {
@@ -35,13 +29,25 @@ h2
   color: var(--uncblue);
 }
 
-h3
+nav
 {
-  color: var(--uncblue);
-  text-align: left;
+    border: 7px var(--uncgold) solid;
+}
+section
+{
+    border: 5px var(--uncblue) solid;
+    margin: 5px;
+    margin-top: 50px;
+}
+.date
+{
+    color: var(--uncgold);
+    font-weight: bold;
 }
 
-section 
+ul li
 {
-  border: 2px solid var(--uncgold);
+    list-style: none;
+    padding-left: 0px;
+    font color: var(--uncblue);
 }
