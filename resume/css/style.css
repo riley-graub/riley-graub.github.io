@@ -57,11 +57,3 @@ ul
     font color: var(--uncblue);
     text-align: center;
 }
-
-li
-{
-    list-style: none;
-    padding-left: 0px;
-    font color: var(--uncblue);
-    text-align: center;
-}
